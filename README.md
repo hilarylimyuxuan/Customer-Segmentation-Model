@@ -1,23 +1,22 @@
 # wqd7003grp4
 ## Phase 1: Business Understanding
-  1. Data Mining Goals<br />
+1. Data Mining Goals<br />
   To build a customer segmentation model based on their behavioral data (spending, product usage etc.)
 
  
-  2. Business Objectives<br />
+2. Business Objectives<br />
 
 * To increase customer retention and loyalty.<br />
 * To fulfil customer's needs with recommendation system.<br />
 * To boost up revenue and expand market shares.<br />
 
- 3. Business Background<br />
+3. Business Background<br />
 
 * Founded in 2015, a Brazilian e-commerce platform<br />
 * Olist works to connect small retailers to major e-commerce sites,     enabling the latter to increase their sales through large e-commerce platforms.<br />
 * Olist's software and list their products in their software, which Olist will post to the major e-commerce sites for sale under its own name.<br />
 
- 
-  4. Situation Assessment<br />
+4. Situation Assessment<br />
 
 * Business: Inadequate personalized recommendation system<br />
 * Seller: Lesser profit as e-commerce platform takes higher percentage of profit sharing.<br />
