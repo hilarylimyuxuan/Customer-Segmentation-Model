@@ -1,4 +1,4 @@
-# wqd7003grp4
+# wqd7003grp4 - Olist Company Customer Segmentation Model
 ## Phase 1: Business Understanding
 1. Data Mining Goals<br />
   To build a customer segmentation model based on their behavioral data (spending, product usage etc.)
