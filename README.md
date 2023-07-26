@@ -1,8 +1,7 @@
 # wqd7003grp4
 ## Phase 1: Business Understanding
-1. Data Mining Goals<br />
-
-To build a customer segmentation model based on their behavioral data (spending, product usage etc.)
+  1. Data Mining Goals<br />
+  To build a customer segmentation model based on their behavioral data (spending, product usage etc.)
 
  
   2. Business Objectives<br />
@@ -11,7 +10,6 @@ To build a customer segmentation model based on their behavioral data (spending,
 * To fulfil customer's needs with recommendation system.<br />
 * To boost up revenue and expand market shares.<br />
 
- 
   3. Business Background<br />
 
 * Founded in 2015, a Brazilian e-commerce platform<br />
