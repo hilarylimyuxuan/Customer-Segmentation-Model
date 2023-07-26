@@ -51,4 +51,4 @@
 ## Phase 6: Deployment
   1. Use the segments to create targeted marketing campaigns for different groups of customers.<br />
   2. Use the segments to inform product development and inventory management decisions.<br />
-  3. Monitor the success of the segmentation by tracking changes in customer behavior and sales revenue
+  3. Monitor the success of the segmentation by tracking changes in customer behavior and sales revenue.
