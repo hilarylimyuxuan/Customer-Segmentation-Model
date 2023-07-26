@@ -10,7 +10,7 @@
 * To fulfil customer's needs with recommendation system.<br />
 * To boost up revenue and expand market shares.<br />
 
-  3. Business Background<br />
+ 3. Business Background<br />
 
 * Founded in 2015, a Brazilian e-commerce platform<br />
 * Olist works to connect small retailers to major e-commerce sites,     enabling the latter to increase their sales through large e-commerce platforms.<br />
